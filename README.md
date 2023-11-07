@@ -1,1 +1,1 @@
-# discord_for_powershedd
+# discord_for_powershell
