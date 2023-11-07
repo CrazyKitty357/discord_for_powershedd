@@ -1,1 +1,1 @@
-# discord_for_powershell
+# discord for powershell
